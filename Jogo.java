@@ -22,7 +22,6 @@ public class Jogo{
             int numero_aleatorio = aleatorio.nextInt(range);
             System.out.printf("\n================================\nFASE %d\n================================\n", fase_atual);
             System.out.printf("Dica: números entre 0 e %d\nVocê tem %d chances!\n", range, chances);
-            //System.out.println(numero_aleatorio);
 
             do{
                 System.out.print("\nSeu palpite: ");
