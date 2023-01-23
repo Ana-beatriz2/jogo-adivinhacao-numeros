@@ -1,5 +1,5 @@
 # Descrição
-Nesse pequeno jogo, você será desafiado pelo computador a descobrir o número escolhido por ele.
+Nesse jogo, você será desafiado pelo computador a descobrir o número escolhido por ele.
 
 ## Como funciona?
 
