@@ -12,7 +12,7 @@ Na primiera fase, o jogador terá **6 chances** de acertar o número, e esse val
 ## Créditos 
 Em cada etapa, são disponibilizados **5 créditos**. Com eles, o jogador poderá receber dicas com relação ao seu palpite.
 
-* Quando uma fase é concluída com sucesso, o jogador ganha mais **2 créditos**
+* Quando uma fase é concluída com sucesso, o jogador ganha mais **2 créditos**.
 * Com esse recurso, será falado se o número inserido é maior ou menor do que o estipulado pela máquina.
 
 
